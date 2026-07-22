@@ -1,0 +1,4 @@
+# ORION MODEL 1
+# Phase 1 Foundation Dependencies
+
+python-dotenv
